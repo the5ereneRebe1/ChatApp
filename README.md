@@ -16,6 +16,7 @@
 ChatApp is an app build for this purpose. You can create rooms as you go and invite your friends to join the room. <br/> No messages are saved on the server and unlike other chat Apps we d not maintain user sessions.
 
 <br/>
+
 ## Visit :checkered_flag:
 
 * Live: [https://himanshuchatapp.netlify.app/](https://himanshuchatapp.netlify.app/)
